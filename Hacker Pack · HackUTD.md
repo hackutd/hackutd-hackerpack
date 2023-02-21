@@ -1,7 +1,5 @@
 # Hacker Pack · HackUTD IX
 
-# Hacker Pack · HackUTD IX
-
 # **Overview**
 
 **🖥️ What is HackUTD?**
